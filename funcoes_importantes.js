@@ -6,3 +6,8 @@ function processarDados(){
 function emitirAlertas(){
 	//emitir alertas
 }
+
+function exibeRelatorio(){
+  //faz relatório
+}
+
