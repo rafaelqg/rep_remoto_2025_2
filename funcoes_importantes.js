@@ -9,5 +9,6 @@ function emitirAlertas(){
 
 function exibeRelatorio(){
   //faz relatório
+  //faz correção
 }
 
